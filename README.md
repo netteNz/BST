@@ -23,7 +23,7 @@ This project is a C++ implementation of a Binary Search Tree (BST) for education
     cd BST
     ```
 
-2. **Compile the project** (Ensure you have a C++ compiler like `g++`):
+2. **Compile the project** (For Linux, ensure you have a C++ compiler like `g++`):
     ```bash
     g++ main.cpp -o bst
     ```
